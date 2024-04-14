@@ -1,0 +1,45 @@
+@media screen and (max-width: 1000px) { 
+    .undercuts {
+        max-height: 600px;
+        overflow: hidden;
+        padding: 0 0 4% 0;
+    }
+    .undercuts-index {
+        max-height: 290px;
+        overflow: hidden;
+        padding: 0 0 4% 0; 
+    }
+    .acteurs__and__regisseurs {
+        max-height: 200px;
+    }
+}
+@media screen and (max-width: 830px) { 
+    .undercuts {
+        max-height: 520px;
+        overflow: hidden;
+        padding: 0 0 0% 0;
+    }
+    .undercuts-index {
+        max-height: 290px;
+        overflow: hidden;
+        padding: 0 0 0% 0; 
+    }
+    .acteurs__and__regisseurs {
+        max-height: 170px;
+    }
+}
+@media screen and (max-width: 700px) { 
+    .undercuts {
+        max-height: 440px;
+        overflow: hidden;
+        padding: 0 0 0% 0;
+    }
+    .undercuts-index {
+        max-height: 240px;
+        overflow: hidden;
+        padding: 0 0 0% 0; 
+    }
+    .acteurs__and__regisseurs {
+        max-height: 140px;
+    }
+}
